@@ -1,29 +1,29 @@
 Initialize engine version: 4.3.4f1 (e444f76e01cd)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4052]
-    Renderer: NVIDIA GeForce GTX 560 Ti  
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4411]
+    Renderer: NVIDIA GeForce GTX 770
     Vendor:   NVIDIA
-    VRAM:     977 MB (via DXGI)
+    VRAM:     1990 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Admin\Desktop\Last Travels\LastTravels_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.080 seconds
-desktop: 1680x1050 60Hz; virtual: 3600x1200 at -1920,-150
+Platform assembly: D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Unity Projects\Unity\Last Travels\LastTravels_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.204 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 0.436320 ms
+UnloadTime: 0.385310 ms
 System memory in use before: 9.7 MB.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 System memory in use after: 9.6 MB.
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 295.
-Total: 1.262720 ms (FindLiveObjects: 0.020120 ms CreateObjectMapping: 0.017520 ms MarkObjects: 0.176080 ms  DeleteObjects: 0.014160 ms)
+Total: 1.002625 ms (FindLiveObjects: 0.028964 ms CreateObjectMapping: 0.016383 ms MarkObjects: 0.182854 ms  DeleteObjects: 0.009947 ms)
 
